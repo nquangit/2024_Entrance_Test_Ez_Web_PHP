@@ -1,0 +1,1 @@
+```We have PHP, robots, and ourselves, we can go to every corner of the world and find the hidden flag. This trip is starting at a fast pace with restrictions, can you overcome the restrictions and slow down this trip?```
