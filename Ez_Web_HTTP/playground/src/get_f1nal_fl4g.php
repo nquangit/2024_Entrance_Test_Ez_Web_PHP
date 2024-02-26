@@ -2,7 +2,7 @@
 
 if (isset($_POST['hacker'])) {
     // Check if 'flag' equals 'RklBezF0XzE1X3Mw'
-    if ($_POST['hacker'] == '') {
+    if ($_POST['hacker'] == 'me') {
         // The 'flag' parameter is set and equals 'RklBezF0XzE1X3Mw'
         echo "You are truly excellent: dGgxc19jaDRsbDNuZzN9";
         // Use the 'header()' function to send an HTTP Location header
