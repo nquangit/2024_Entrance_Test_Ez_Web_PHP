@@ -18,7 +18,7 @@ http_response_code(999);
     <address>Apache/2.4.38 (Debian) Server at
         <?php echo $_SERVER['HTTP_HOST']; ?> Port 80
     </address>
-    <script src="s3cr3t_f0ld3r/cloudflare-js-531457441a4114c9da843302c3fbcf4c.js"></script>
+    <script src="cloudflare-js-531457441a4114c9da843302c3fbcf4c.js"></script>
 </body>
 
 </html>
